@@ -1,0 +1,95 @@
+#!/bin/bash
+
+echo "what is your name"
+
+
+read name
+
+echo "how old are you"
+
+
+read age
+
+echo "hey $name, i am trying to tell you when you are getting rich bro"
+
+echo "calculating"
+sleep 6
+
+
+getrich=$((( $RANDOM % 15 ) + $age ))
+
+
+echo "so $name according to my fucking prediction i am seeing you getting rich at $getrich years old"
+
+
+#!/bin/bash
+
+echo "what is your name"
+
+
+read name
+
+echo "how old are you"
+
+
+read age
+
+echo "hey $name, i am trying to tell you when you are getting rich bro"
+
+echo "calculating"
+sleep 6
+
+
+getrich=$((( $RANDOM % 15 ) + $age ))
+
+
+echo "so $name according to my fucking prediction i am seeing you getting rich at $getrich years old
+
+"
+#!/bin/bash
+
+echo "what is your name"
+
+
+read name
+
+echo "how old are you"
+
+
+read age
+
+echo "hey $name, i am trying to tell you when you are getting rich bro"
+
+echo "calculating"
+sleep 6
+
+
+getrich=$((( $RANDOM % 15 ) + $age ))
+
+
+echo "so $name according to my fucking prediction i am seeing you getting rich at $getrich years old
+ 
+
+"
+#!/bin/bash
+
+echo "what is your name"
+
+
+read name
+
+echo "how old are you"
+
+
+read age
+
+echo "hey $name, i am trying to tell you when you are getting rich bro"
+
+echo "calculating"
+sleep 6
+
+
+getrich=$((( $RANDOM % 15 ) + $age ))
+
+
+echo "so $name according to my fucking prediction i am seeing you getting rich at $getrich years old"
